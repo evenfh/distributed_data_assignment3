@@ -688,7 +688,7 @@ transportation_mode.
 
 ## Results
 
-Due to a misreading of assignment 2, we ended up with too few activities. This resulted in a lot of "wrong" answers. As such, we are not totally confident that our results from assignment 3 are correct as we cannot confidently compare the results. However, we belive that the misunderstanding of the assignment has been resolved FIX SENTENCE.
+Due to a misreading of assignment 2, we ended up with too few activities. This resulted in a lot of "wrong" answers. As such, we are not totally confident that our results from assignment 3 are correct as we cannot confidently compare the results. However, we believe that the number of activites are now correct.
 
 Regarding task 3, 6 and 7, we had different results compared to assignment 3. We find this strange, as the feedback suggested that our answers from assignment 2 was correct.
 
